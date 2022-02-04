@@ -2,3 +2,5 @@
 Ini Adalah File CV
 Pabrik kerupuk
 pabrik cokelat
+pabrik permen
+
